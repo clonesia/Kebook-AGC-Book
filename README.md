@@ -1,8 +1,16 @@
 # Kebook AGC Books
+
+## Requirements
+` PHP 7.2 / 7.3
+- Ioncube Loader
+- Composer
+- Node JS / NPM
+- Same as Laravel Requirements
+
 ## Installation
 
 ### 1. Uploads
-- Upload `kebook` folder outisde public_html/public
+- Upload `kebook` folder outisde public_html
 - Upload `public` folder to your public directory `public` or `public_html`
 
 **Example**
