@@ -38,3 +38,11 @@ you can found it on resource directory `kebook/resources`
 `resources/js`
 `resources/views`
 `resources/sass`
+
+## Commands
+`php artisan cache:clear` to clear cache file
+`php artisan config:clear` to clear cache config
+`php artisan view:clear` to clear cache template
+`php artisan route:clear` to clear cache route
+
+
