@@ -34,6 +34,7 @@
 - Setting Permission for storage folder `chmod -R 777 storage`
 - Install Composer `composer install`
 - Install Node `npm install`
+- Setting Ownership for sitemap folder `chown -R username:username /home/username/public_html/sitemap`
 - Open `https://domain.com/api/v1/license/active` to activate your license.
 
 ## Customize
